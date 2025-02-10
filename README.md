@@ -3,8 +3,9 @@
 This program implements image segmentation based on hue thresholds in the HSV color space. It takes an RGB image as input and produces an output where pixels within the specified hue range are displayed in their original color, while pixels outside this range are converted to grayscale.
 
 ## Screenshots
-https://imgur.com/Bv9nHQt.png
-https://imgur.com/Jt4iV1R.png
+![Segmented Image 1](https://imgur.com/Bv9nHQt.png)
+![Segmented Image 2](https://imgur.com/Jt4iV1R.png)
+
 
 ## Usage
 
